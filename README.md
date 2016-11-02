@@ -1,1 +1,0 @@
-# cut-command-in-linux
